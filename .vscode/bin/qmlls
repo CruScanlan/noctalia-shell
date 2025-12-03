@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+exec /nix/store/zgpfg77x3nq1x6f7xlbg01g4ql21yn2w-qtdeclarative-6.10.1/bin/qmlls "$@"
+
+
+
+

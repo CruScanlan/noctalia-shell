@@ -1,0 +1,9 @@
+{
+  // QML import paths - provides basic IDE support
+  // Note: Full type resolution for qs.* imports requires qmldir files,
+  // but those break Quickshell's runtime, so we can't use them.
+  "qml.importPaths": [
+    "${workspaceFolder}"
+  ]
+}
+
